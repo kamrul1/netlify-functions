@@ -37,7 +37,6 @@
     ]
   },
   "devDependencies": {
-    "json-loader": "^0.5.7",
     "netlify-cli": "^3.16.2"
   }
 }
